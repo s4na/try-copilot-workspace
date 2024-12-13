@@ -14,3 +14,6 @@ ruby output_hoge.rb
 ```
 
 You should see the output "hoge" in your terminal.
+
+## refs
+https://github.com/githubnext/copilot-workspace-user-manual/blob/main/getting-started.md
